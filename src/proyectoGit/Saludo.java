@@ -13,7 +13,7 @@ public class Saludo {
        
 
         // Mostrar el saludo
-        System.out.println("¡Hola, " + nombre + "! Bienvenido al programa.");
+        System.out.println("¡Hola, " + nombre + "! Bienvenido al programa de Antena3.");
 
         // Cerrar el Scanner
         teclado.close();
